@@ -1,0 +1,5 @@
+[
+  {"query": "how do I combine keyword and vector search results", "relevant": ["hybrid"]},
+  {"query": "reciprocal rank fusion", "relevant": ["hybrid"]},
+  {"query": "recipe for cooking spaghetti", "relevant": ["pasta"]}
+]
